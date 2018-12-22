@@ -1,4 +1,6 @@
-[
+
+{
+  "users" : [
   {
     "User_ID": 1,
     "FirstName": "AName",
@@ -16,3 +18,4 @@
     "Task_ID": "NULL"
   }
 ]
+}
