@@ -7,5 +7,14 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+   "users": [{
+    "User_ID": 1,
+    "FirstName": "AName",
+    "LastName": "BName",
+    "Employee_ID": 1001,
+    "Project_ID": "NULL",
+    "Task_ID": "NULL"
+  }]
+  
 }
