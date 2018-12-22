@@ -10,7 +10,7 @@
   },
   "users": [
     {
-    "Id": 1,
+    "id": 1,
     "FirstName": "AName",
     "LastName": "BName",
     "Employee_ID": "1001",
@@ -18,7 +18,7 @@
     "Task_ID": "NULL"
     },
     {
-    "Id": 2,
+    "id": 2,
     "FirstName": "CName",
     "LastName": "DName",
     "Employee_ID": "1002",
@@ -26,7 +26,7 @@
     "Task_ID": "NULL"
     },
     {
-    "Id": 3,
+    "id": 3,
     "FirstName": "EName",
     "LastName": "FName",
     "Employee_ID": "1003",
