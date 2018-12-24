@@ -40,7 +40,7 @@
       "project": "FinLines7",
       "startDate": "2018-12-22T00:00:00",
       "endDate": "2018-12-28T00:00:00",
-      "priority": 20,
+      "priority": 1,
       "userId": 2,
       "status": "O",
       "taskcount":10
@@ -50,7 +50,7 @@
       "project": "FinLines11",
       "startDate": "2018-12-22T00:00:00",
       "endDate": "2018-12-28T00:00:00",
-      "priority": 20,
+      "priority": 2,
       "userId": 2,
       "status": "O",
       "taskcount":10
@@ -60,7 +60,7 @@
       "project": "ProjectB",
       "startDate": "2018-12-22T00:00:00",
       "endDate": "2018-12-28T00:00:00",
-      "priority": 20,
+      "priority": 3,
       "userId": 2,
       "status": "O",
       "taskcount":10
@@ -70,7 +70,7 @@
       "project": "ProjectC",
       "startDate": "2018-12-22T00:00:00",
       "endDate": "2018-12-28T00:00:00",
-      "priority": 20,
+      "priority": 4,
       "userId": 2,
       "status": "O",
       "taskcount":10
