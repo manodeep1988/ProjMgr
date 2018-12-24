@@ -42,7 +42,7 @@
       "endDate": "2018-12-28T00:00:00",
       "priority": 4,
       "userId": 2,
-      "status": "O",
+      "status": "C",
       "taskcount":10
     },
      {
@@ -62,7 +62,7 @@
       "endDate": "2018-12-28T00:00:00",
       "priority": 1,
       "userId": 2,
-      "status": "O",
+      "status": "C",
       "taskcount":10
     },
     {
