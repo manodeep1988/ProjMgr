@@ -34,4 +34,16 @@
     "Task_ID": "NULL"
     }
   ] 
+  "projects":[
+    {
+      "id":4,    
+      "project": "FinLines7",
+      "startDate": "2018-12-22T00:00:00",
+      "endDate": "2018-12-28T00:00:00",
+      "priority": 20,
+      "userId": 2,
+      "status": "O",
+      "taskcount":10
+    }
+  ]
 }
