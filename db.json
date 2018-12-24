@@ -61,7 +61,7 @@
        "task":"SIT",
        "startDate":"2018-12-20T00:00:00",
        "endDate":"2018-12-28T00:00:00",
-       "priority":1,
+       "priority":15,
        "status":"O",
         "userId":4
 },
@@ -85,7 +85,7 @@
        "task":"SIT",
        "startDate":"2018-12-20T00:00:00",
        "endDate":"2018-12-28T00:00:00",
-       "priority":15,
+       "priority":4,
        "status":"O",
         "userId":4
 }
