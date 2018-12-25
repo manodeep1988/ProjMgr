@@ -28,22 +28,22 @@
    "projectNames":[
       {
          "id":1,
-         "Name":"AName"
+         "Name":"ProjectA"
       },
       {
          "id":2,
-         "Name":"BName"
+         "Name":"ProjectB"
       },
       {
          "id":3,
-         "Name":"CName"
+         "Name":"ProjectC"
       },
       {
          "id":2,
-         "Name":"BName"
+         "Name":"ProjectD"
       }
    ],
-   "UserNames":[
+   "userNames":[
       {
          "id":1,
          "Name":"AName"
